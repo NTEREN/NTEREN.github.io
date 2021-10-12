@@ -18,19 +18,22 @@ We are open to peering, you can peer with us at our common IXP.
 
 ## 交换中心 IXP
 
-`Under Construction`
+- Aperture IX, HK
+- OPTiX, Fremont and Shanghai
+- Wut Exchange, Hangzhou
+- ZXIX Hangzhou, Hangzhou
 
 ## 位置 Locations
 
-`Under Construction`
-
 - 美国洛杉矶 Los Angelas, US
+- 中国香港 Hong Kong, CN
+- 中国西安 Xi'an, CN
 
 ## 联系 Contact
 
 请发邮件到[tomdang@naivetomcat.cn](mailto:tomdang@naivetomcat.cn)或[noc@naivetomcat.cn](mailto:noc@naivetomcat.cn)。
 
-Please mail to[tomdang@naivetomcat.cn](mailto:tomdang@naivetomcat.cn)or[noc@naivetomcat.cn](mailto:noc@naivetomcat.cn)。
+Please mail to[tomdang@naivetomcat.cn](mailto:tomdang@naivetomcat.cn) or [noc@naivetomcat.cn](mailto:noc@naivetomcat.cn)。
 
 如有Abuse报告，请发送到abuse@naivetomcat.cn。
 
