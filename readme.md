@@ -16,7 +16,9 @@ This network currently only support IPv6.
 
 We are open to peering, you can peer with us at our common IXP.
 
-## 交换中心 IXP
+## 由于物理承载层网络上级管理政策问题，本网络正在进行重构，暂时下线。具体上线时间待定
+
+<!--## 交换中心 IXP
 
 - Aperture IX, HK
 - OPTiX, Fremont and Shanghai
@@ -28,6 +30,7 @@ We are open to peering, you can peer with us at our common IXP.
 - 美国洛杉矶 Los Angelas, US
 - 中国香港 Hong Kong, CN
 - 中国西安 Xi'an, CN
+-->
 
 ## 联系 Contact
 
