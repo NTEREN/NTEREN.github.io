@@ -1,0 +1,10 @@
+# NaiveTomcat Education and Research Experimental Network Geofeed
+# This feed is encoded in RFC8805 format.
+#
+# This data feed provides approximate geo locations for a subset of
+# NTEREN IP space, and the data included in this feed may be used only
+# for improving the accuracy of Geo:IP lookups 
+
+2a0a:6040:3410:1::/64,US,US-CA,San Jose,
+2a0a:6040:3420:1::/64,DE,DE-HE,Frankfurt,
+2a0a:6040:3430:1::/64,HK,HK,Hong Kong,
