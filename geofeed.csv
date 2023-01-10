@@ -5,6 +5,7 @@
 # NTEREN IP space, and the data included in this feed may be used only
 # for improving the accuracy of Geo:IP lookups 
 
+<<<<<<< HEAD
 2a0a:6040:3410::/56,US,US-CA,San Jose,
 2a0a:6040:3410:100::/56,US,US-CA,San Jose,
 2a0a:6040:3410:200::/56,US,US-CA,San Jose,
@@ -770,3 +771,8 @@
 2a0a:6040:3430:fc00::/56,HK,HK,Hong Kong,
 2a0a:6040:3430:fd00::/56,HK,HK,Hong Kong,
 2a0a:6040:3430:fe00::/56,HK,HK,Hong Kong,
+=======
+2a0a:6040:3410:1::/64,US,US-CA,San Jose,
+2a0a:6040:3420:1::/64,DE,DE-HE,Frankfurt,
+2a0a:6040:3430:1::/64,HK,HK,Hong Kong,
+>>>>>>> 9740dd0dd27447887978c2a60bc32044c29c7ac6
